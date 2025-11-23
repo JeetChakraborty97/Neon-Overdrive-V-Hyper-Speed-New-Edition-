@@ -8,7 +8,7 @@ This is a futuristic arcade racing game built entirely with Gemini 3. It is a cy
 
 # Key Features in More Details.
 
-### 10 Selectable Vehicles
+### 1) 10 Selectable Vehicles
 
 Each vehicle has unique stats, including:
 
@@ -40,7 +40,7 @@ Players can pick from futuristic machines like:
 
 ---
 
-### 20 Futuristic Zones
+### 2) 20 Futuristic Zones
 
 The game progressively increases difficulty across 20 cyberpunk environments, such as:
 
@@ -64,7 +64,7 @@ Each zone adjusts **speed**, **traffic density**, and optional **rain effects** 
 
 ---
 
-### Nitro System
+### 3) Nitro System
 
 Players can hold **UP / W** to activate Nitro Boost, which:
 
@@ -80,7 +80,7 @@ Players can hold **UP / W** to activate Nitro Boost, which:
 
 ---
 
-### Full Audio System
+### 4) Full Audio System
 
 The game supports:
 
@@ -94,7 +94,7 @@ Audio can be muted/unmuted using in-game controls.
 
 ---
 
-### Collision & Game Over System
+### 5) Collision & Game Over System
 
 Procedural crash detection handles:
 
@@ -108,9 +108,7 @@ Procedural crash detection handles:
 
 The player can **Quick Retry** or return to the main menu.
 
----
-
-### Controls
+# Controls
 
 * **← / A:** Move Left
 
