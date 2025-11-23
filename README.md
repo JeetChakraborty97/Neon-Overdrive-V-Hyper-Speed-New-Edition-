@@ -38,9 +38,11 @@ Players can pick from futuristic machines like:
 
 …and more.
 
+<img width="1139" height="911" alt="SS 2" src="https://github.com/user-attachments/assets/50ea16fd-c157-4617-9a3e-64162771770e" />
+
 ---
 
-### 2) 20 Futuristic Zones
+### 2) 20 Futuristic Zones (Levels)
 
 The game progressively increases difficulty across 20 cyberpunk environments, such as:
 
@@ -62,6 +64,8 @@ The game progressively increases difficulty across 20 cyberpunk environments, su
 
 Each zone adjusts **speed**, **traffic density**, and optional **rain effects** to increase challenge. 
 
+<img width="1134" height="907" alt="SS 3" src="https://github.com/user-attachments/assets/6291b330-75ae-4cc5-a934-9c0ea19dd144" />
+
 ---
 
 ### 3) Nitro System
@@ -77,6 +81,8 @@ Players can hold **UP / W** to activate Nitro Boost, which:
 * Triggers unique synthesised sound effects
 
 * Consumes nitro fuel, regenerating over time 
+
+<img width="1140" height="912" alt="SS 1" src="https://github.com/user-attachments/assets/027e7ba0-df0c-4d3f-8fb7-ba5ddfbb6006" />
 
 ---
 
