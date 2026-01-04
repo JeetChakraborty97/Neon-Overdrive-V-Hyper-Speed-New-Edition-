@@ -6,7 +6,7 @@
 
 This is a futuristic arcade racing game built entirely with Gemini 3. It is a cyberpunk-themed 20-level racing game with 10 different vehicles to choose from. The game features nitro boost and a rainy environment, along with the natural road. The game also has its own built-in music along with an option to add custom tracks while playing.
 
-# Play it Online (PC Web & Mobile Browser)
+# Play Online (PC Web & Mobile Browser)
 
 The online version is optimised for both PC & Mobile users.
 
