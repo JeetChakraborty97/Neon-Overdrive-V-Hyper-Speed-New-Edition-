@@ -120,7 +120,7 @@ Procedural crash detection handles:
 
 The player can **Quick Retry** or return to the main menu.
 
-# Controls
+# Controls (PC)
 
 * **← / A:** Move Left
 
