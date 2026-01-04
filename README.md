@@ -142,7 +142,7 @@ Step 3: Double-click on the 'Neon_Overdrive_V_Hyper_Speed_New_Edition.html' file
 
 # LICENSE
 
-## MIT License (Non-Commercial)
+### MIT License (Non-Commercial)
 
 ### Copyright (c) 2025 Jeet Chakraborty
 
