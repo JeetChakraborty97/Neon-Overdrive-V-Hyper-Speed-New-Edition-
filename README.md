@@ -6,7 +6,9 @@
 
 This is a futuristic arcade racing game built entirely with Gemini 3. It is a cyberpunk-themed 20-level racing game with 10 different vehicles to choose from. The game features nitro boost and a rainy environment, along with the natural road. The game also has its own built-in music along with an option to add custom tracks while playing.
 
-# Play it Online
+# Play it Online (PC Web & Mobile Browser)
+
+The online version is optimised for both PC & Mobile users.
 
 Click on the link to play: https://jeetchakraborty97.github.io/Neon-Overdrive-V-Hyper-Speed-New-Edition-/
 
@@ -134,7 +136,7 @@ The player can **Quick Retry** or return to the main menu.
 
 * JavaScript: Game logic, physics, rendering, input, audio
 
-# Installation Process
+# Installation Process (Windows & Mac OS)
 
 There is no installation required — the game is built entirely with HTML, CSS, and JavaScript, and runs locally in any modern browser.
 
